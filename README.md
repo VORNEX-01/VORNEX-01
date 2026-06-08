@@ -31,12 +31,6 @@ I work with modern frontend and backend technologies and continuously improve my
 - Django
 - REST APIs
 
-### Tools & Environment
-- Git & GitHub
-- VS Code
-- Linux (Kali - VM)
-- Windows 11
-
 ---
 
 ## 🚀 Featured Projects
