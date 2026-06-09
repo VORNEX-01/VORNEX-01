@@ -61,8 +61,8 @@ Includes network scanning, vulnerability testing, and security learning experime
 ---
 
 ## 📫 Contact
-- Telegram: @VORNEX_01
-- Instagram: @vornex01
+- Telegram: https://t.me/VORNEX_01
+- Instagram: https://www.instagram.com/vornex01
 - Email: mrvornexlinux@gmail.com 
 - GitHub: https://github.com/VORNEX-01  
 - LinkedIn: https://www.linkedin.com/in/vornex01
