@@ -1,4 +1,4 @@
-# Hi, I'm VORNEX-01 👋
+# Hi, I'm VORNEX 👋
 
 🚀 Frontend & Backend Developer | React • Django • Python  
 🔐 Aspiring Cybersecurity Enthusiast  
